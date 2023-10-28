@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtapiproject-dev-125440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::956330854619:role/amplify-nuxtapiproject-dev-125440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::956330854619:role/amplify-nuxtapiproject-dev-125440-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nuxtapiproject-dev-125440-deployment",
+      "UnauthRoleName": "amplify-nuxtapiproject-dev-125440-unauthRole",
+      "StackName": "amplify-nuxtapiproject-dev-125440",
+      "StackId": "arn:aws:cloudformation:us-east-2:956330854619:stack/amplify-nuxtapiproject-dev-125440/db9f5d50-74ae-11ee-be32-0adb786760bb",
+      "AmplifyAppId": "dvehv3khxzjci"
+    },
+    "categories": {
+      "auth": {
+        "nuxtapiprojectb634c3e7": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dvehv3khxzjci",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
